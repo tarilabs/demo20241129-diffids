@@ -1,2 +1,2 @@
 FROM scratch
-COPY hello.md world.md ./
+COPY hello.md world.md /models/
